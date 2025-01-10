@@ -22,4 +22,11 @@ Code for our proposed SA Merge can be found under /merge
 
 ## Trained Models
 
-coming soon
+|      Model      | MyST test WER |                             Huggingface Link                             |
+| :--------------: | :-----------: | :-----------------------------------------------------------------------: |
+|   Whisper tiny - SA Merge  |     11.52     |  [model](https://huggingface.co/balaji1312/whisper-tiny-myst-samerge)  |
+|   Whisper base - SA Merge  |     9.87    |  [model](https://huggingface.co/balaji1312/whisper-base-myst-samerge)  |
+|  Whisper small - SA Merge |      8.85     |  [model](https://huggingface.co/balaji1312/whisper-small-myst-samerge)  |
+|  Whisper small - SpecAug + SA Merge |      8.69      |  [model](https://huggingface.co/balaji1312/whisper-small-myst-specaug-samerge)  |
+|  Whisper Medium - SA Merge |      8.63     | [model](https://huggingface.co/balaji1312/whisper-medium-myst-samerge) |
+| Whisper Large v3 - SA Merge |      8.74      | [model](https://huggingface.co/balaji1312/whisper-large-myst-samerge) |
