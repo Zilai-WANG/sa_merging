@@ -30,3 +30,20 @@ Code for our proposed SA Merge can be found under /merge
 |  Whisper small - SpecAug + SA Merge |      8.69      |  [model](https://huggingface.co/balaji1312/whisper-small-myst-specaug-samerge)  |
 |  Whisper Medium - SA Merge |      8.63     | [model](https://huggingface.co/balaji1312/whisper-medium-myst-samerge) |
 | Whisper Large v3 - SA Merge |      8.74      | [model](https://huggingface.co/balaji1312/whisper-large-myst-samerge) |
+
+
+## Citation
+
+If you use this code in your research, please cite it as follows:
+
+```{bibtex}
+@misc{shankar2025selectiveattentionmerginglow,
+      title={Selective Attention Merging for low resource tasks: A case study of Child ASR}, 
+      author={Natarajan Balaji Shankar and Zilai Wang and Eray Eren and Abeer Alwan},
+      year={2025},
+      eprint={2501.08468},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2501.08468}, 
+}
+```
