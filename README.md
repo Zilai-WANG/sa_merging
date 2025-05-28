@@ -2,7 +2,7 @@
 
 ## Overview
 
-This github repository contains models, scripts and data splits from our paper submitted to ICASSP 2025
+This github repository contains models, scripts and data splits from our paper accepted at ICASSP 2025
 
 ## Folder Structure
 
@@ -36,14 +36,15 @@ Code for our proposed SA Merge can be found under /merge
 
 If you use this code in your research, please cite it as follows:
 
-```{bibtex}
-@misc{shankar2025selectiveattentionmerginglow,
-      title={Selective Attention Merging for low resource tasks: A case study of Child ASR}, 
-      author={Natarajan Balaji Shankar and Zilai Wang and Eray Eren and Abeer Alwan},
-      year={2025},
-      eprint={2501.08468},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2501.08468}, 
+```bibtex
+@INPROCEEDINGS{shankar2025selective,
+  author={Shankar, Natarajan Balaji and Wang, Zilai and Eren, Eray and Alwan, Abeer},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Selective Attention Merging for low resource tasks: A case study of Child ASR}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICASSP49660.2025.10887889}
 }
 ```
